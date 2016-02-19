@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1455799339471_1" label="exercice4" name="exercice4">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/module1" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/exercice4" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1455787090462_0" label="Window Working Set" name="Aggregate for window 1455787090461"/>
+</workingSetManager>

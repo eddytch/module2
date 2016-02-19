@@ -1,0 +1,12 @@
+package myGreatProject;
+
+import static com.google.common.base.*;
+
+public class Main {
+
+	public static void main(String[] args) {
+		isNullOrEmpty("");
+
+	}
+
+}
